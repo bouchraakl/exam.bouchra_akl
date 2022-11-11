@@ -101,6 +101,44 @@ color: #fff;
 cursor: pointer;
 }
 
+/* HOME */
+
+.home{
+    max-width: 100%;
+    height: auto;
+    height: 500px;
+    background-color: #043873;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.home .homeLayOut{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 100px;
+   
+}
+
+.home .homeLayOut h2{
+font-family: Inter;
+font-size: 33px;
+font-weight: 700;
+color: #fff;
+text-align: left;
+
+}
+
+.home .homeLayOut p{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+letter-spacing: -0.02em;
+text-align: left;
+color: #fff;
+
+}
 /* SECTION TWO */
 
 .screenTwo{
