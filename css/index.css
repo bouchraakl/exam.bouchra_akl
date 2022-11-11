@@ -313,6 +313,7 @@ footer .socials a{
 
 @media (max-width:600px){
     .home .homeLayOut h2{
+        padding: 5px;
         text-align: center;
     }
 
